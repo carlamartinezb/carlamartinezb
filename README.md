@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hola! Hi! Napaykuy!
 
-<!--
-**carlamartinezb/carlamartinezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carla, an interdisciplinary researcher and aspiring Civil/Environmental Engineer focused on human-centered water infrastructure. 
 
-Here are some ideas to get you started:
+**Current focus:** water demand • stormwater infrastructure • reproducible research • simulation/optimization • data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned projects
+- **NYCHA Water Consumption Analysis**
+Python analysis and visualizations of NYC housing water billing data (2013–2025)  
+- **Elephant Population Optimization**
+Stochastic simulation, binary-search optimization, sensitivity analysis
+
+## Skills
+- Python
+- Data cleaning & exploratory analysis (EDA)  
+- Reproducible workflows (documentation, version control)
+
+## What I care about
+Water equity, decentralized infrastructure, and research that translates into practical engineering decisions.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/carlamartinezbecerra/
+- Email: cmartinezbecerra28@coa.edu
+- Location: Bar Harbor, ME
