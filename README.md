@@ -17,8 +17,3 @@ Stochastic simulation, binary-search optimization, sensitivity analysis
 
 ## What I care about
 Water equity, decentralized infrastructure, and research that translates into practical engineering decisions.
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/carlamartinezbecerra/
-- Email: cmartinezbecerra28@coa.edu
-- Location: Bar Harbor, ME
