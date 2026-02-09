@@ -6,8 +6,10 @@ I'm Carla, an interdisciplinary researcher and aspiring Civil/Environmental Engi
 
 ## Pinned projects
 - **NYCHA Water Consumption Analysis**
+
 Python analysis and visualizations of NYC housing water billing data (2013–2025)  
 - **Elephant Population Optimization** 
+
 Stochastic simulation, binary-search optimization, sensitivity analysis
 
 ## Skills
