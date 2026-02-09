@@ -1,4 +1,4 @@
-## Hola! Hi! Napaykuy!
+## Hola! Hi! Napaykuy!👋
 
 I'm Carla, an interdisciplinary researcher and aspiring Civil/Environmental Engineer focused on human-centered water infrastructure. 
 
