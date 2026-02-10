@@ -1,6 +1,6 @@
 ## Hola! Hi! Napaykuy!👋
 
-I'm Carla, an interdisciplinary researcher and aspiring Civil/Environmental Engineer focused on human-centered water infrastructure. 
+I'm Carla, an interdisciplinary undergraduate researcher and aspiring Civil/Environmental Engineer focused on human-centered water infrastructure. 
 
 **Current focus:** water demand • stormwater infrastructure • reproducible research • simulation/optimization • data visualization
 
