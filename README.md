@@ -12,10 +12,7 @@ Python analysis and visualizations of NYC housing water billing data (2013–202
 
 Stochastic simulation, binary-search optimization, sensitivity analysis
 
-## Skills
-- Python
-- Data cleaning & exploratory analysis (EDA)  
-- Reproducible workflows (documentation, version control)
-
 ## What I care about
 Water equity, decentralized infrastructure, and research that translates into practical engineering decisions.
+
+📄 CV: [CV_Carla F. L. Martinez Becerra.pdf](<./CV_Carla F. L. Martinez Becerra.pdf>)
